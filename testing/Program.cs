@@ -10,6 +10,7 @@ namespace testing
         {
             while (true)
             {
+                // here is start the program
                 Console.WriteLine("Select an options ");
                 Console.WriteLine("[1] Generate random number\tGenerate random string");
                 var selectedOption = Console.ReadLine();
